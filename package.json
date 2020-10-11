@@ -22,6 +22,10 @@
     "styled-components": "^4.3.2",
     "web3": "1.2.2"
   },
+  "engines": {
+    "node": "12.x",
+    "npm": "6.x"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
